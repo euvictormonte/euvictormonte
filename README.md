@@ -1,4 +1,4 @@
-### About Me  
+### Who am i? 👨🏾‍💻  
 👋 Hello! I'm a beginner in web development, currently focused on **JavaScript**.  
 💡 I'm always learning and building my first small projects as I explore the world of programming.  
 🚀 My goal is to improve a little every day and become a full-stack developer in the future.  
