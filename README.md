@@ -1,7 +1,7 @@
 ### Who am i? 👨🏾‍💻  
 👋 Hello, World! I'm a beginner in web development.  
 💡 I'm always learning and building my first small projects as I explore the world of programming.  
-🚀 My goal is to improve a little every day and become a full-stack developer in the future.  
+🚀 My goal is to improve a little every day and become a great developer in the future.  
 📚 Currently studying: **JavaScript**, **HTML**, **CSS**, and web fundamentals.
 
 ---
